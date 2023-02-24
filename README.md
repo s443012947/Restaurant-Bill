@@ -4,6 +4,7 @@ This project is about restaurant bill. It's displays all menu that the restauran
 It is suitable for the user who receiving an order from customer.
 
 Classes:
+  
   Item Class (represents a single item on the menu):
   
   Menu Class (A parent class that represents the menu containing a list of available items):
