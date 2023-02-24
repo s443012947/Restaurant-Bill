@@ -1,7 +1,7 @@
 # RestaurantBill
 
 This project is about restaurant bill. It's displays all menu that the restaurant have with their price. 
-It is suitable for the user who receiving an order from customer.
+It is suitable for the user who receiving an order from customer. 
 
 -----------------------------------------
 Classes:
@@ -16,7 +16,17 @@ Classes:
   
 -----------------------------------------  
 Items:
+  
   It's already added, but can be changed.
+
+-----------------------------------------
+Imports:
+
+  List
+  Date
+  ArrayList
+  InputMismatchException
+  Scanner
 
 -----------------------------------------
 Technologies used:
