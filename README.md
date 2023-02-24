@@ -3,6 +3,7 @@
 This project is about restaurant bill. It's displays all menu that the restaurant have with their price. 
 It is suitable for the user who receiving an order from customer.
 
+-----------------------------------------
 Classes:
   
   Item Class (represents a single item on the menu):
@@ -12,8 +13,12 @@ Classes:
   Invoice Class extend menu (A child class that represents an invoice for a customer's order):
   
   Main Class ():
+  
+-----------------------------------------  
+Items:
+  It's already added, but can be changed.
 
-
+-----------------------------------------
 Technologies used:
   1. Net beans (At the video)
   2. IntelliJ IDEA CE (Used recenlty)
