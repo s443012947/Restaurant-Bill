@@ -1,7 +1,7 @@
 # RestaurantBill
 
 This project is about restaurant bill. It's displays all menu that the restaurant have with their price. 
-It is suitable for the user who receiving an order from customer. 
+It is suitable for the user who receiving an order from customer. It's presented for restaurant named as "fast food restaurat" located on 123 Prince Abdullah St, Mecca, KSA.
 
 -----------------------------------------
 Classes:
@@ -22,11 +22,11 @@ Items:
 -----------------------------------------
 Imports:
 
-  List
-  Date
-  ArrayList
-  InputMismatchException
-  Scanner
+  - List
+  - Date
+  - ArrayList
+  - InputMismatchException
+  - Scanner
 
 -----------------------------------------
 Technologies used:
