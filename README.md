@@ -1,7 +1,8 @@
 # RestaurantBill
 
-This project is about restaurant bill. It's displays all menu that the restaurant have with their price. 
-It is suitable for the user who receiving an order from customer. It's presented for restaurant named as "fast food restaurat" located on 123 Prince Abdullah St, Mecca, KSA.
+This project is about a restaurant bill. It displays all menus that the restaurant has with their price. 
+It is suitable for the user who receives an order from a customer. It's presented for a restaurant named 
+"fast food restaurant" located at 123 Prince Abdullah St, Mecca, KSA.
 
 -----------------------------------------
 Classes:
