@@ -32,6 +32,7 @@ Imports:
 -----------------------------------------
 Technologies used:
   1. Net beans (At the video)
-  2. IntelliJ IDEA CE (Used recenlty)
-  3. Java Languange
-  4. Git 2.15.0
+     Link for the project video: https://youtu.be/8bjIB_HiC_E
+  3. IntelliJ IDEA CE (Used recenlty)
+  4. Java Languange
+  5. Git 2.15.0
